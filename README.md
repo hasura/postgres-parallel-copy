@@ -1,6 +1,9 @@
 # Note for Hasura
 postgres 11 is no longer supported by the community. We use this particular branch to provide security fixes for our customers.
 
+Officially supported versions of postgres are up to 3.18 and 3.19. We have created a new version called 3.20 for Hasura customers.
+
+
 
 # https://github.com/docker-library/postgres
 
