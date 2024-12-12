@@ -1,3 +1,7 @@
+# Note for Hasura
+postgres 11 is no longer supported by the community. We use this particular branch to provide security fixes for our customers.
+
+
 # https://github.com/docker-library/postgres
 
 ## Maintained by: [the PostgreSQL Docker Community](https://github.com/docker-library/postgres)
